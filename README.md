@@ -1,26 +1,9 @@
 # Rogério Aparecido Gonçalves
-<!--
-**rogerioag/rogerioag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-
-![Snake animation](https://github.com/rogerioag/rogerioag/blob/output/github-contribution-grid-snake.svg)
--->
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/rogerioag">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerioag&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerioag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
@@ -28,9 +11,13 @@ Here are some ideas to get you started:
 ## Contatos:
 
 <div>
-<a href="https://www.youtube.com/@rogeriorag" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://github.com/rogerioag"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
+<a href="https://youtube.com/@rogeriorag"><img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg"></a></a>
+</p>" target="_blank"></a>
 <a href="https://instagram.com/rogeriorag" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <!--<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
 <a href = "mailto:rogerio.rag@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rogerioag" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/rogerioag"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg" target="_blank"></a>
+<a href="https://twitter.com/rogeriorag"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a>
+<a href="https://discord.com/channels/@me/768481177936855040"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
 </div>
