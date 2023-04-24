@@ -14,8 +14,8 @@
 <a href="https://github.com/rogerioag"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
 <a href = "mailto:rogerio.rag@gmail.com"><img src="assets/gmail.svg" alt="Gmail" title="Gmail" height="32" width="32" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rogerioag"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg" target="_blank"></a>
-<a href="http://lattes.cnpq.br/1677599200632096"><img alt="Lattes" title="Lattes" height="32" width="32" src="assets/lattes.svg"></a>
-<a href="https://orcid.org/0000-0001-7020-6723"><img alt="ORCID" title="ORCID" height="32" width="32" src="assets/lattes.svg"></a>
+<a href="http://lattes.cnpq.br/1677599200632096"><img alt="Lattes" title="Lattes" height="32" width="32" src="assets/lattes.png"></a>
+<a href="https://orcid.org/0000-0001-7020-6723"><img alt="ORCID" title="ORCID" height="32" width="32" src="assets/orcid.svg"></a>
 <a href="https://youtube.com/@rogeriorag"><img alt="YouTube" title="YouTube" height="32" width="32" src="assets/youtube.svg"></a></a>
 <a href="https://instagram.com/rogeriorag" target="_blank"><img alt="Instagram" title="Instagram" height="32" width="32" src="assets/instagram.svg" target="_blank"></a>
 <!--<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
