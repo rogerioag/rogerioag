@@ -10,7 +10,7 @@
   
 ## Contatos:
 
-<div>
+<div width="100%">
 <a href="https://github.com/rogerioag"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
 <a href="https://www.linkedin.com/in/rogerioag"><img alt="LinkedIn" title="LinkedIn" height="32" width="32" src="assets/linkedin.svg" target="_blank"></a>
 <a href="http://lattes.cnpq.br/1677599200632096"><img alt="Lattes" title="Lattes" height="32" width="32" src="assets/lattes.png"></a>
@@ -23,9 +23,5 @@
 <a href="https://instagram.com/rogeriorag" target="_blank"><img alt="Instagram" title="Instagram" height="32" width="32" src="assets/instagram.svg" target="_blank"></a>
 <!--<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
 <a href="https://twitter.com/rogeriorag"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
-
-
-
-
 
 </div>
