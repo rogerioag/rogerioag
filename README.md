@@ -14,7 +14,7 @@ Tenho experiência na área de Ciência da Computação, tendo como principais l
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rogerioag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-## Contatos:
+## Contatos
 
 <div width="100%">
 <a href="https://github.com/rogerioag" target="_blank"><img alt="GitHub" title="GitHub" height="32" width="32" src="assets/github.svg"></a>
