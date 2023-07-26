@@ -35,7 +35,7 @@ Tenho experiência na área de Ciência da Computação, tendo como principais l
 <a href="http://www.researcherid.com/rid/A-4771-2016" target="_blank"><img alt="ResearcherID" title="ResearcherID" height="32" width="32" src="assets/researcherid.svg"></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57191413432" target="_blank"><img alt="Scopus" title="Scopus" height="32" width="32" src="assets/scopus.svg"></a>
 <a href="https://www.researchgate.net/profile/Rogerio-Goncalves-8" target="_blank"><img alt="ResearchGate" title="ResearchGate" height="32" width="32" src="assets/researchgate.svg"></a>
-<a href="https://www.webofscience.com/wos/author/record/IUO-8485-2023" target="_blank"><img alt="Web of Science" title="Web of Science" height="32" width="32" src="assets/webofscience.svg"></a>
+<a href="https://www.webofscience.com/wos/author/record/IUO-8485-2023" target="_blank"><img alt="Web of Science" title="Web of Science" height="32" width="32" src="assets/webofscience.jpg"></a>
 <a href="https://en.wikipedia.org/wiki/User:Rogerio.rag" target="_blank"><img alt="Wikipedia" title="wikipedia" height="32" width="32" src="assets/wikipedia.svg"></a>
 <a href="https://pt.slideshare.net/rogerio.rag" target="_blank"><img alt="SlideShare" title="SlideShare" height="32" width="32" src="assets/slideshare.svg"></a>
 <a href="https://t.me/rogerioag" target="_blank"><img alt="Telegram" title="Telegram" height="32" width="32" src="assets/telegram.svg"></a>
