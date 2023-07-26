@@ -31,7 +31,7 @@ Tenho experiência na área de Ciência da Computação, tendo como principais l
 <a href="https://twitter.com/rogeriorag" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="assets/twitter.svg"></a>
 <a href="https://utfpr-br.academia.edu/Rog%C3%A9rioGon%C3%A7alves" target="_blank"><img alt="Academia" title="Academia" height="32" width="32" src="assets/academia.svg"></a>
 <a href="http://www.facebook.com/rogerio.rag" target="_blank"><img alt="Facebook" title="Facebook" height="32" width="32" src="assets/facebook.svg"></a>
-<a href="https://scholar.google.com/citations?hl=pt-BR&amp;user=_WU2RvQAAAAJ" target="_blank"><img alt="Google Scholar" title="Google Scholar" height="32" width="32" src="assets/google-scholar.svg"></a>
+<a href="https://scholar.google.com/citations?hl=pt-BR&amp;user=_WU2RvQAAAAJ" target="_blank"><img alt="Google Scholar" title="Google Scholar" height="32" width="32" src="assets/scholar.svg"></a>
 <a href="http://www.researcherid.com/rid/A-4771-2016" target="_blank"><img alt="ResearcherID" title="ResearcherID" height="32" width="32" src="assets/researcherid.svg"></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57191413432" target="_blank"><img alt="Scopus" title="Scopus" height="32" width="32" src="assets/scopus.svg"></a>
 <a href="https://www.researchgate.net/profile/Rogerio-Goncalves-8" target="_blank"><img alt="ResearchGate" title="ResearchGate" height="32" width="32" src="assets/researchgate.svg"></a>
